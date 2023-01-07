@@ -2,12 +2,14 @@ Hi there, As a highly skilled machine learning engineer, I have a strong backgro
 
 Skills:
 • Python
+• R
+• Tensorflow
 • Scikit-learn
 • Numpy
 • Pandas
 • Matplotlib
 • SQL
-• Tensorflow
+
 
 <!---
 abdelrahmant0/abdelrahmant0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
